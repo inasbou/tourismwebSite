@@ -1,10 +1,20 @@
+# landing page 
+![CHEESE!](src/assets/landing-page.png)
+# La carte géographique
 ![CHEESE!](src/assets/safir1.png)
-<details>
-  
-  <img src="src/assets/safir4.png" alt="image-description"/>
-  <img src="src/assets/safir5.png" alt="image-description"/>
-  <img src="src/assets/safir7.png" alt="image-description"/>
-</details>
+# Les évenements et manifestation 
+![CHEESE!](src/assets/safir4.png)
+
+# Les places d'intéret et les monuments 
+![CHEESE!](src/assets/safir5.png)
+# Les details de chaque place 
+![CHEESE!](src/assets/safir6.png)
+# Les commentaires et les apprécation de chaque place 
+![CHEESE!](src/assets/safir7.png)
+
+
+
+
 
 # Getting Started with Create React App
 
