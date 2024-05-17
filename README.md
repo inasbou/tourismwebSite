@@ -1,4 +1,4 @@
-![alt text](https://github/inasbou/tourismwebSite/blob/main/src/assets/safir1.png?raw=true)
+![CHEESE!](src/assets/safir1.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
