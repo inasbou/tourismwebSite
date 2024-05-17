@@ -1,4 +1,11 @@
 ![CHEESE!](src/assets/safir1.png)
+<details>
+  <summary>The title of the image group</summary>
+  <img src="src/assets/safir4.png" alt="image-description"/>
+  <img src="src/assets/safir5.png" alt="image-description"/>
+  <img src="src/assets/safir7.png" alt="image-description"/>
+</details>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
